@@ -1,11 +1,19 @@
 # LoQumText Qlik Sense
 With LoQum Text , Its not simple text objects.current Version support many features . 
-- List 1 
-- List 2
+- Text Item  
+- Additional Text Item
+- Image Object
+- Html Render HTML tags
+- Iframes
+- Times
+- Timers can connect to Actions such as 30s later goto 3rd page etc. 
+- Full customization Colour,size,border etc.
+- Image Resizing 
+- And please look :)
 
 
 
-## Installation
+## Installation and Download
 
 Please contact to  vizslice@gmail.com or viz.dataslice.co.uk  for get latest version of the LoQum Charts package 
 
