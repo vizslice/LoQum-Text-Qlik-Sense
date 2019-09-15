@@ -1,5 +1,7 @@
 # LoQumText Qlik Sense
-With LoQum Slider , you can modify your variables value easily . You can use static values for mix, max and stepper value or variaables. It's quite usefull extension for tweaking values and looking new forecast results or animating your chart results. current version supports three different fully cusotomizable sliders. 
+With LoQum Text , Its not simple text objects.current Version support many features . 
+- List 1 
+- List 2
 
 
 
@@ -11,7 +13,7 @@ Please contact to  vizslice@gmail.com or viz.dataslice.co.uk  for get latest ver
 
 ## Demo
 ## Text Object
-![Example](https://github.com/vizslice/LoQumSlider-Qlik-Sense/blob/master/examples/images/Slider-1.gif)
+![Example](https://github.com/vizslice/LoQumText-Qlik-Sense/blob/master/examples/images/Text-1.gif)
 
 
 
